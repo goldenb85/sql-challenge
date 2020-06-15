@@ -8,3 +8,4 @@ Python, PostgreSQL
 ## Visualization ##
 ![ERD](EmployeeSQL/ERD.PNG)<br>
 ### Contact
+Email: xinlianghuang85@gmail.com
