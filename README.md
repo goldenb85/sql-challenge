@@ -8,5 +8,6 @@ Python, PostgreSQL
 ## Visualization ##
 ![ERD](EmployeeSQL/ERD.PNG)<br>
 ![Salary](Images/salary.PNG)<br>
+![Average_Salary](Images/Average_Salary.PNG)<br>
 ### Contact
 Email: xinlianghuang85@gmail.com
