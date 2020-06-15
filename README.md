@@ -7,5 +7,6 @@ This project is designed to set up tables to hold data in the CSVs, import the C
 Python, PostgreSQL
 ## Visualization ##
 ![ERD](EmployeeSQL/ERD.PNG)<br>
+![Salary](Images/salary.PNG)<br>
 ### Contact
 Email: xinlianghuang85@gmail.com
