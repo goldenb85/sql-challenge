@@ -4,3 +4,4 @@ This project is designed to set up tables to hold data in the CSVs, import the C
 ## Data Source ##
 [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 ## Tool ##
+Python, PostgreSQL
