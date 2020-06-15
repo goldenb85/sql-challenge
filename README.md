@@ -6,3 +6,4 @@ This project is designed to set up tables to hold data in the CSVs, import the C
 ## Tool ##
 Python, PostgreSQL
 ## Visualization ##
+![ERD](EmployeeSQL/ERD.PNG)<br>
